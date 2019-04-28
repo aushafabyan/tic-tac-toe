@@ -50,5 +50,6 @@ below is some brief explanations of the enhancement:
        In this case is when the amount of one characters in a row, column, or diagonal equal to BOARD_SIZE
        
 [3] The display of the game
+
     It's hard for me to see the condition of the board with so many boards from the previous turns.
     So, I implemented clear screen for the new display.
